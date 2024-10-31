@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **BI; Statistics; Programing; Machining learning**
 
-- 👯 I’m looking to collaborate on **Business Intelligence**
+- 👯 I’m looking to collaborate on **Business Intelligence** and **DSA** and **Data Engineer**
 
 - 🤝 I’m looking for help with **DAX ; M ; R ; Python ; SQL**
 
